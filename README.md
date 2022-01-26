@@ -23,8 +23,8 @@
 </div>
 
 #<!-- Colocar os Icones depois -->
-- Unity
-- C#
+<p>- Unity</p>
+<p>- C#</p>
 - .NET
 - .NET Framework
 - HTML/CSS
