@@ -22,16 +22,19 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
   
+  #
+  
 <div style="display: inline_block">  
 <!-- Colocar os Icones depois -->
- - Unity
- - C#
- - .NET
- - .NET Framework
- - HTML/CSS
- - SQL Server
+<p>- Unity</p>
+<p>- C#
+<p>- .NET
+<p>- .NET Framework
+<p>- HTML/CSS
+<p>- SQL Server
 </div>
   
+  #
 <div>
   <a href="https://www.instagram.com/kikefickert/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank">
   </a>
