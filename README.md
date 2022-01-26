@@ -22,14 +22,13 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
 
-#<!-- Colocar os Icones depois -->
-<p>- Unity</p>
-<p>- C#</p>
+<!-- Colocar os Icones depois -->
+- Unity
+- C#
 - .NET
 - .NET Framework
 - HTML/CSS
 - SQL Server
-#
   <hr>
   
 <div>
