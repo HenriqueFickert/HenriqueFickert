@@ -22,14 +22,13 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
 
-<!-- Colocar os Icones depois -->
-- Unity
-- C#
-- .NET
-- .NET Framework
-- HTML/CSS
-- SQL Server
-  <hr>
+- 🖥️ *Back-end developer* in [Universidade Paulista - UNIP](https://www.unip.br/)
+- 📝 Learning *Web Development*
+- 🐱 24 years
+- 👾 Graduated in Game Design for Anhembi Morumbi University**
+- 🎮 Games / 🎶 Music / 🐻 Animes
+
+ <hr>
   
 <div>
   <a href="https://www.instagram.com/kikefickert/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank">
