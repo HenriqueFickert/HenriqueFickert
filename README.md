@@ -21,20 +21,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
-  
-  #
-  
-<div style="display: inline_block">  
+
 <!-- Colocar os Icones depois -->
-<p>- Unity</p>
-<p>- C#
-<p>- .NET
-<p>- .NET Framework
-<p>- HTML/CSS
-<p>- SQL Server
-</div>
+- Unity
+- C#
+- .NET
+- .NET Framework
+- HTML/CSS
+- SQL Server
+
+  <hr>
   
-  #
 <div>
   <a href="https://www.instagram.com/kikefickert/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank">
   </a>
