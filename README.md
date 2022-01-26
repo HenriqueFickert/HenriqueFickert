@@ -22,14 +22,15 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
 
- # Capacidades
+ # Competencias / Skills
 - Unity
 - C#
 - .NET
 - .NET Framework
 - SQL Server
-- HTML/CSS  
-
+- HTML/CSS
+- EF Framework
+  
  <hr>
   
 <div>
