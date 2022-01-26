@@ -27,9 +27,9 @@
 - C#
 - .NET
 - .NET Framework
+- EF Framework
 - SQL Server
 - HTML/CSS
-- EF Framework
   
  <hr>
   
