@@ -21,10 +21,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-<div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert" </div>
+ <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert">
+ </div>
 
+  <br/>
+  
+  <div>
+   ![Visitors since 11 Nov 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
+  </div>
+  
   <br />
-  ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
   
  # Competências / Skills
 - Unity
@@ -38,8 +45,8 @@
  <hr>
   
 <div>
-  <a href="https://www.instagram.com/kikefickert/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank">
+  <a href="https://www.instagram.com/kikefickert/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/henriquefickert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"          target="_blank">
+  <a href="https://www.linkedin.com/in/henriquefickert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div
