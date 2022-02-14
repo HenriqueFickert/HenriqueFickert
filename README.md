@@ -25,6 +25,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert">
  </div>
 
+ <br/>
+  
 ![Visitors since 15 Jan 2022](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
   
  # Competências / Skills
