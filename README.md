@@ -27,9 +27,7 @@
 
   <br/>
   
-  <div>
-   ![Visitors since 11 Nov 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
-  </div>
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PauloDiegoDeOliveira&repo=PauloDiegoDeOliveira&countColor=%237B1E7A)
   
   <br />
   
