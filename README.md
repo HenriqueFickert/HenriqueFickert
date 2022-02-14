@@ -19,10 +19,10 @@
 <div>
   <a href="https://github.com/HenriqueFickert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert" />
 </div>
-
-  ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert" />
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
   
  # Competências / Skills
 - Unity
