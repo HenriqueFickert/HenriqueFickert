@@ -22,7 +22,7 @@
 </div>
   
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert">
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert">-->
  </div>
 
  <br/>
