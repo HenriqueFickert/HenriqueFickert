@@ -27,8 +27,6 @@
 
  <br/>
   
-![Visitors since 15 Jan 2022](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HenriqueFickert&repo=HenriqueFickert&countColor=%237B1E7A)
-  
  # Competências / Skills
 - Unity
 - C#
