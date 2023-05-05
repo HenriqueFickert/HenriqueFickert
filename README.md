@@ -3,17 +3,19 @@
 ### Hello! Wellcome to my profile! 🇺🇸
 
 - 🖥️ *Back-end developer* in [Universidade Paulista - UNIP](https://www.unip.br/)
+- 👾 Graduated in *Game Design* at Anhembi Morumbi University**
+- 🎒 Studing *Computer science* at [Universidade Paulista - UNIP](https://www.unip.br/)
 - 📝 Learning *Web Development*
-- 🐱 24 years
-- 👾 Graduated in Game Design for Anhembi Morumbi University**
+- 🐱 26 years
 - 🎮 Games / 🎶 Music / 🐻 Animes
 
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
 - 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 👾 Formado em *Design de Games* pela universidade Anhembi Morumbi**
+- 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 📝 Aprendendo *Desenvolvimento Web*
-- 🐱 24 anos
-- 👾 Formado em Design de Games pela universidade Anhembi Morumbi**
+- 🐱 26 anos
 - 🎮 Games / 🎶 Músicas / 🐻 Animes
 
 
@@ -32,10 +34,10 @@
 - Unity
 - C#
 - .NET
-- .NET Framework
 - EF Framework
 - SQL Server
 - HTML/CSS
+- JS
   
  <hr>
   
