@@ -1,4 +1,4 @@
-## Henrique Franco Fickert Graciose
+## Henrique Franco Fickert Graziosi
 
 ### Hello! Wellcome to my profile! 🇺🇸
 
