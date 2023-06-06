@@ -38,6 +38,8 @@
 - SQL Server
 - HTML/CSS
 - JS
+- TS
+- Angular
   
  <hr>
   
