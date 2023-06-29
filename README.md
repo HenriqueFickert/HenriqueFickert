@@ -12,7 +12,7 @@
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
 - 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
-- 👾 Formado em *Design de Games* pela [universidade Anhembi Morumbi](https://portal.anhembi.br/)**
+- 👾 Formado em *Design de Games* pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/)**
 - 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 📝 Aprendendo *Desenvolvimento Web*
 - 🐱 26 anos
