@@ -18,6 +18,9 @@
 - 🐱 26 anos
 - 🎮 Games / 🎶 Músicas / 🐻 Animes
 
+<br />
+ <hr>
+
 <div>
   <a href="https://github.com/HenriqueFickert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
