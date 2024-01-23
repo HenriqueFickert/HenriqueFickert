@@ -66,7 +66,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=henriquefickert&theme=vision-friendly-dark" alt="henriquefickert" />
+    <img src="https://github-profile-trophy.vercel.app/?username=henriquefickert&theme=onedark" alt="henriquefickert" />
     </a>
 </p>
 
