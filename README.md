@@ -80,6 +80,18 @@
     </a>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/henriquefickert">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.instagram.com/kikefickert">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=henriquefickert&label=Profile%20views&color=0e75b6&style=flat" alt="henriquefickert" />
 </p>
