@@ -22,16 +22,20 @@
 <div>
   <a href="https://github.com/HenriqueFickert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br />
 </div>
+<br />
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
    <br />
- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
+</div>
+<br />
+<div>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquefickert&theme=dark&background=000000" alt="henriquefickert" />
+   <br />
+</div>
 
- <br />
-
- </div>
-
- <br/>
+<br/>
   
  # Competências / Skills
 - Unity
@@ -73,4 +77,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en" alt="henriquefickert" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquefickert&theme=dark&background=000000" alt="henriquefickert" /></p>
+
