@@ -28,7 +28,7 @@
 <br />
 <div>
   <a href="https://github.com/HenriqueFickert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=dark&background=000000&include_all_commits=true&count_private=true"/>
   <br />
 </div>
 <br />
