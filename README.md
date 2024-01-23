@@ -18,7 +18,6 @@
 - 🐱 26 anos
 - 🎮 Games / 🎶 Músicas / 🐻 Animes
 
-<br />
  <hr>
 
 <div>
