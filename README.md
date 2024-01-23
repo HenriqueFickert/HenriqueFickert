@@ -1,23 +1,23 @@
 
-<h1>## Henrique Franco Fickert Graziosi</h1>
+## Henrique Franco Fickert Graziosi
 
-<h2>### Hello! Wellcome to my profile! 🇺🇸 </h2>
+### Hello! Wellcome to my profile! 🇺🇸
 
-<p>- 🖥️ *Back-end developer* in [Universidade Paulista - UNIP](https://www.unip.br/)</p>
-<p>- 👾 Graduated in *Game Design* at [Anhembi Morumbi University](https://portal.anhembi.br/)**</p>
-<p>- 🎒 Studing *Computer science* at [Universidade Paulista - UNIP](https://www.unip.br/)</p>
-<p>- 📝 Learning *Web Development*</p>
-<p>- 🐱 26 years</p>
-<p>- 🎮 Games / 🎶 Music / 🐻 Animes</p>
+- 🖥️ *Back-end developer* in [Universidade Paulista - UNIP](https://www.unip.br/)
+- 👾 Graduated in *Game Design* at [Anhembi Morumbi University](https://portal.anhembi.br/)**
+- 🎒 Studing *Computer science* at [Universidade Paulista - UNIP](https://www.unip.br/)
+- 📝 Learning *Web Development*
+- 🐱 26 years</p>
+- 🎮 Games / 🎶 Music / 🐻 Animes
 
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
-<p>- 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)</p>
-<p>- 👾 Formado em *Design de Games* pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/)**</p>
-<p>- 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)</p>
-<p>- 📝 Aprendendo *Desenvolvimento Web*</p>
-<p>- 🐱 26 anos</p>
-<p>- 🎮 Games / 🎶 Músicas / 🐻 Animes</p>
+- 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 👾 Formado em *Design de Games* pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/)**
+- 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 📝 Aprendendo *Desenvolvimento Web*</p>
+- 🐱 26 anos</p>
+- 🎮 Games / 🎶 Músicas / 🐻 Animes
 
  <hr>
 
