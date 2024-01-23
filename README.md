@@ -7,7 +7,7 @@
 - 👾 Graduated in *Game Design* at [Anhembi Morumbi University](https://portal.anhembi.br/)**
 - 🎒 Studing *Computer science* at [Universidade Paulista - UNIP](https://www.unip.br/)
 - 📝 Learning *Web Development*
-- 🐱 26 years</p>
+- 🐱 26 years
 - 🎮 Games / 🎶 Music / 🐻 Animes
 
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
@@ -15,8 +15,8 @@
 - 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 👾 Formado em *Design de Games* pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/)**
 - 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)
-- 📝 Aprendendo *Desenvolvimento Web*</p>
-- 🐱 26 anos</p>
+- 📝 Aprendendo *Desenvolvimento Web*
+- 🐱 26 anos
 - 🎮 Games / 🎶 Músicas / 🐻 Animes
 
  <hr>
