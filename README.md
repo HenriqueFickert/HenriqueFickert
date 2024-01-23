@@ -40,8 +40,6 @@
     <br />
 </div>
 
-<br />
-
 <h3 align="left"> # Languages and Tools/Linguas e Ferramentas</h3>
 <p align="left">
      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
@@ -63,16 +61,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-<br />
-
 <h3 align="left"> # Trophy/Troféus</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=henriquefickert&theme=onedark" alt="henriquefickert" />
     </a>
 </p>
-
-<br />
 
 <h3 align="left"># Contact Me/Entre em Contato</h3>
 <div id="badges">
