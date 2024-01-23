@@ -21,6 +21,7 @@
 
  <hr>
 
+<h3 align="left"> # Stats</h3>
 <div>
   <a href="https://github.com/HenriqueFickert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
@@ -64,9 +65,7 @@
  
 <hr>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquefickert" alt="henriquefickert" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
