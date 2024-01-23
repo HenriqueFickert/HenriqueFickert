@@ -25,8 +25,8 @@
 </div>
    <br />
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
+
  <br />
 
  </div>
