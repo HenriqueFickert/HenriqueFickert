@@ -73,4 +73,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en" alt="henriquefickert" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquefickert&" alt="henriquefickert" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquefickert&theme=dark&background=000000" alt="henriquefickert" /></p>
