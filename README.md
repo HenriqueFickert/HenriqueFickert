@@ -39,7 +39,6 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquefickert&theme=dark&background=000000" alt="henriquefickert" />
     <br />
 </div>
-<br/>
 
 <h3 align="left"> # Languages and Tools/Linguas e Ferramentas</h3>
 <p align="left">
@@ -60,7 +59,6 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-
 </p>
 
 <h3 align="left"> # Trophy/Troféus</h3>
