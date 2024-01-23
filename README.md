@@ -71,23 +71,14 @@
 </p>
 
 <h3 align="left"># Contact Me/Entre em Contato</h3>
-<div>
-    <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/kikefickert/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-</div>
-
 <div id="badges">
-  <a href="https://www.linkedin.com/in/henriquefickert">
+  <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="your-youtube-URL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/kikefickert">
+  <a href="https://www.instagram.com/kikefickert" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
