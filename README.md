@@ -19,6 +19,14 @@
 - 🐱 26 anos
 - 🎮 Games / 🎶 Músicas / 🐻 Animes
 
+<p align="center">
+<h3 align="left"># Contact Me/Entre em Contato</h3>
+<a href="https://www.linkedin.com/in/henriquefickert"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/@arraydepixel"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/kikefickert"><img src="https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+
  <hr>
 
 <h3 align="left"> # Stats/Estatísticas</h3>
@@ -68,26 +76,6 @@
 </p>
 
  <hr>
-
-<h3 align="left"># Contact Me/Entre em Contato</h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@arraydepixel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/kikefickert" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<p align="center">
-<a href="https://twitter.com/brunomikoski"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://instagram.com/bruno.mikosk"><img src="https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/brunomikoski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=henriquefickert&label=Profile%20views&color=0e75b6&style=flat" alt="henriquefickert" />
