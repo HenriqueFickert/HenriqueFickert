@@ -21,11 +21,12 @@
 
 <div>
   <a href="https://github.com/HenriqueFickert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
    <br />
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&hide=html&theme=dark" alt="HenriqueFickert">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  <br />
 
  </div>
