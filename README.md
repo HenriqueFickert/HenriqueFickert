@@ -71,12 +71,14 @@
 </p>
 
 <h3 align="left"># Contact Me/Entre em Contato</h3>
-<a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/kikefickert/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<div>
+    <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/kikefickert/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+</div>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=henriquefickert&label=Profile%20views&color=0e75b6&style=flat" alt="henriquefickert" />
