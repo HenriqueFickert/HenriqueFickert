@@ -21,7 +21,7 @@
 
  <hr>
 
-<h3 align="left"> # Stats</h3>
+<h3 align="left"> # Stats/Estatísticas</h3>
 <div>
   <a href="https://github.com/HenriqueFickert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
@@ -42,7 +42,7 @@
 
 <br/>
 
-<h3 align="left"> # Competências/Skills</h3>
+<h3 align="left"> # Languages and Tools/Linguas e Ferramentas</h3>
 <p align="left">
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -65,14 +65,18 @@
  
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquefickert" alt="henriquefickert" /></a> </p>
+<p align="left">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=henriquefickert&theme=vision-friendly-dark" alt="henriquefickert" />
+ </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"># Contact Me/Entre em Contato</h3>
   <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
     <a href="https://www.instagram.com/kikefickert/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black">
     </a>
 </p>
 
