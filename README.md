@@ -68,6 +68,8 @@
     </a>
 </p>
 
+ <hr>
+
 <h3 align="left"># Contact Me/Entre em Contato</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/henriquefickert" target="_blank">
