@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-<h3 align="left"> # Trophy/Troféus</h3>
+<h3 align="left"> # Trophies/Troféus</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=henriquefickert&theme=onedark" alt="henriquefickert" />
