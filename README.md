@@ -70,7 +70,7 @@
 
 <h3 align="left"> # Trophies/Troféus</h3>
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+     <a href="https://github.com/HenriqueFickert">
     <img src="https://github-profile-trophy.vercel.app/?username=henriquefickert&theme=onedark" alt="henriquefickert" />
     </a>
 </p>
