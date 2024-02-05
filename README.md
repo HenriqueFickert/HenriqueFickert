@@ -57,7 +57,7 @@
 <br />
 <div>
     <a href="https://github.com/HenriqueFickert">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=vision-friendly-dark&background=000000&include_all_commits=true&count_private=true"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en&theme=vision-friendly-dark&background=000000&include_all_commits=true&count_private=true" alt="henriquefickert" />
     <br />
 </div>
 <br />
@@ -81,9 +81,3 @@
     <img src="https://komarev.com/ghpvc/?username=henriquefickert&label=Profile%20views&color=0e75b6&style=flat" alt="henriquefickert" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquefickert&show_icons=true&locale=en&layout=compact" alt="henriquefickert" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en&theme=vision-friendly-dark&background=000000&include_all_commits=true&count_private=true" alt="henriquefickert" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquefickert&" alt="henriquefickert" /></p>
