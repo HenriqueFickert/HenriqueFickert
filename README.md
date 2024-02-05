@@ -84,6 +84,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquefickert&show_icons=true&locale=en&layout=compact" alt="henriquefickert" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en" alt="henriquefickert" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en&theme=vision-friendly-dark&background=000000&include_all_commits=true&count_private=true" alt="henriquefickert" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquefickert&" alt="henriquefickert" /></p>
