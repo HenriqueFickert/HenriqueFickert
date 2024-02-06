@@ -57,7 +57,7 @@
 <br />
 <div>
     <a href="https://github.com/HenriqueFickert">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en&theme=vision-friendly-dark&background=000000&include_all_commits=true&count_private=true" alt="henriquefickert" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en&theme=vision-friendly-dark&background=000000&count_private=true" alt="henriquefickert" />
     <br />
 </div>
 <br />
