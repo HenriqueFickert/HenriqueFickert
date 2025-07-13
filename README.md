@@ -3,21 +3,21 @@
 
 ### Hello! Wellcome to my profile! 🇺🇸
 
-- 🖥️ *Back-end developer* in [Universidade Paulista - UNIP](https://www.unip.br/)
+- 🖥️ *Unity & Back-end developer at [Webcore Games](https://www.webcoregames.com)
 - 👾 Graduated in *Game Design* at [Anhembi Morumbi University](https://portal.anhembi.br/)**
 - 🎒 Studing *Computer science* at [Universidade Paulista - UNIP](https://www.unip.br/)
 - 📝 Learning *Web Development*
-- 🐱 27 years
-- 🎮 Games / 🎶 Music / 🐻 Animes
+- 🐱 28 years
+- 🎮 Games / 🎶 Music
 
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
-- 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 🖥️ *Desenvolvedor Unity & Back-end* na [Webcore Games](https://www.webcoregames.com)
 - 👾 Formado em *Design de Games* pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/)**
 - 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 📝 Aprendendo *Desenvolvimento Web*
-- 🐱 27 anos
-- 🎮 Games / 🎶 Músicas / 🐻 Animes
+- 🐱 28 anos
+- 🎮 Games / 🎶 Músicas
 
 <p align="center">
 <h3 align="left"># Contact Me/Entre em Contato</h3>
