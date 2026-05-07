@@ -46,25 +46,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-<h3 align="left"> # Stats/Estatísticas</h3>
-<div>
-    <a href="https://github.com/HenriqueFickert">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=compact&theme=vision-friendly-dark" alt="HenriqueFickert">
-    <br />
-</div>
-<br />
-<div>
-    <a href="https://github.com/HenriqueFickert">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquefickert&show_icons=true&locale=en&theme=vision-friendly-dark&background=000000&count_private=true" alt="henriquefickert" />
-    <br />
-</div>
-<br />
-<div>
-    <a href="https://github.com/HenriqueFickert">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquefickert&theme=dark&background=000000" alt="henriquefickert" />
-    <br />
-</div>
-
 <h3 align="left"> # Trophies/Troféus</h3>
 <p align="left">
      <a href="https://github.com/HenriqueFickert">
