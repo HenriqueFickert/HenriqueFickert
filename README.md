@@ -27,7 +27,6 @@
  <hr>
 
  <h3 align="left"> # Languages and Tools/Linguas e Ferramentas</h3>
- <h3 align="left"> # Languages and Tools/Linguas e Ferramentas</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
@@ -59,11 +58,8 @@
 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </div>
-
 
 <h3 align="left"> # Trophies/Troféus</h3>
 <p align="left">
