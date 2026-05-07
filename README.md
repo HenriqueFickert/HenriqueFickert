@@ -28,7 +28,7 @@
 
  <h3 align="left"> # Languages and Tools/Linguas e Ferramentas</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; align-items: center;">
 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 
