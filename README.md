@@ -5,7 +5,7 @@
 
 - 🖥️ *Unity & Back-end developer at [Webcore Games](https://www.webcoregames.com)
 - 👾 Graduated in *Game Design* at [Anhembi Morumbi University](https://portal.anhembi.br/)**
-- 🎒 Studing *Computer science* at [Universidade Paulista - UNIP](https://www.unip.br/)
+- 🎒 Studing *Computer science* at [Anhembi Morumbi University](https://portal.anhembi.br/)
 - 🐱 28 years
 - 🎮 Games / 🎶 Music
 
@@ -13,7 +13,7 @@
 
 - 🖥️ *Desenvolvedor Unity & Back-end* na [Webcore Games](https://www.webcoregames.com)
 - 👾 Formado em *Design de Games* pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/)**
-- 🎒 Estudando *Ciência da Computação* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 🎒 Estudando *Ciência da Computação* na [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
 - 🐱 28 anos
 - 🎮 Games / 🎶 Músicas
 
